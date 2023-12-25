@@ -1,2 +1,2 @@
 # myGit
-gitHub tuto.
+gitHub tutorial for learning<br> GITHUB
